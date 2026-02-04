@@ -28,10 +28,7 @@ find-friends/
 │   │   ├── RandomUser.jsx      # Main component for displaying users
 │   │   └── RandomUser.css      # Styling with gradient theme
 │   ├── App.jsx                 # Root component
-│   ├── App.css                 # App-level styles
-│   ├── main.jsx                # Application entry point
-│   ├── index.css               # Global styles
-│   └── assets/                 # Static assets
+│   └── main.jsx                # Application entry point
 ├── public/                     # Public files
 ├── package.json                # Project dependencies
 ├── vite.config.js              # Vite configuration
